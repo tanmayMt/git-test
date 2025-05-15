@@ -3,4 +3,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/tanmayMt/git-test.git
 git push -u origin main
-I am tanmay i want change thisb
+I am tanmay i want change this1
